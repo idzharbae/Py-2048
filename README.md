@@ -1,4 +1,6 @@
-#2048 Game
+# 2048 Game
 
-*remove the terminal coloring first before running unit test*
+## RUN
 
+run tests: `make test` *remove the terminal coloring first before running unit test* \
+run game: `make run`
